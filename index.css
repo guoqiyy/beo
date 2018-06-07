@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+}
+.music{
+	height: 100vh;
+	background: #192314;
+	position: relative;
+}
+.background{
+	width: 800px;
+	height: 800px;
+	background-size: 100% auto;
+	background: url(green-beosound-shape-tablet.jpg);
+	background-size: 100% auto;
+	float: right;
+}
+
+}
+}
+.word{
+	width: 450px;
+	height:134px;
+	background: ;
+	position: absolute;
+	margin-top: 263px;
+	margin-left: 80px;
+	color: white;
+}
+.BeoSoundShape{
+	font-weight: normal;
+	font-size: 20px;
+	font-family:"Gotham SSm A","Gotham SSm B";
+	font-style:; 
+	text-align: left;
+	letter-spacing: 1px;
+	margin: 5px;
+	color: white;
+
+}
+.wall{
+	font-size:30px ;
+	font-weight:10px ;
+	font-family: 宋体;
+	margin: 5px;
+	letter-spacing: 3.7px;
+}
+.lovemusic{
+	font-size:normal ;
+	font-weight:normal; ;
+	font-family: 宋体;
+	margin: 5px;
+	letter-spacing: 1px;
+}
+element.style {
+}
+.deep {
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    display: block;
+    color: white;
+}
+
+.word {
+    width: 450px;
+    height: 134px;
+    background: ;
+    position: absolute;
+    margin-top: 263px;
+    margin-left: 84px;
+    color: white;
+}
+
+.deep{
+	text-decoration: none;
+	padding-bottom:10px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:10px;
+	display: block;
+	background-color: #000;
+	width: 200px;
+	
+
+}
+.banner1box{
+	width:1519px;
+	height:693px;
+	background: url(img-bg-1350.jpg);
+	background-size: 100% auto;
+	margin-top:0px;
+
+	
+
+}
+.bannerbox{
+	width:800px;
+	height:300px;
+	margin-top: 20px;
+	background: red;
+	margin:0 auto;
+	transform: translateY(-42px);
+	z-index: 100;
+
+}
+.item{
+	float: left;
+    width: 266.5px;
+    height: 300px;
+    position: relative;
+}
+.item img {
+    width: 100%;
+}
+.abc{
+	width: 1519px;
+	height: 100px;
+	background: #192314;
+}
+.item h4 {
+	position: absolute;
+    top: 15px;
+    left: 20px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+}
